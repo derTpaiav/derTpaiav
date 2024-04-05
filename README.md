@@ -1,16 +1,16 @@
-### Hi there 👋
+<div align="center">
+  <img width="100%" src="https://wallpapercave.com/wp/wp2757874.gif">
+</div>
 
-<!--
-**derTpaiav/derTpaiav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  Olá! Eu me chamo João Vitor
+ 
+Sou um analista de dados focado em Python e SQL.
 
-Here are some ideas to get you started:
+Atualmente cursando Engenharia da Computação na Universidade Cruzeiro do Sul (UNICSUL).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu foco atualmente está em fortalecer meus conhecimento de Gestão de Dados
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=derTpaiav&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derTpaiav&layout=compact&theme=tokyonight"/>
+</div>
